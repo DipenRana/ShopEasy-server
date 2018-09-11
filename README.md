@@ -25,6 +25,7 @@ home delivery option.
 Run the shopeasy - server application before opening the android application in the mobile.
 
 To start the server, run the following java file.
-shopEasy-server > src > start.java
+
+ShopEasy-server > src > start.java
 
 You also need to set up the database for the application to run successfully.
